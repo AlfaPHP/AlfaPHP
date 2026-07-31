@@ -8,8 +8,6 @@
 
 <br>
 
-## 👨‍💻 Tentang Saya
-
 ```javascript
 const alfarizi = {
     nama: "Muhammad Alfarizi",
