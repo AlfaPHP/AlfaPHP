@@ -14,13 +14,13 @@
 
 ## 🚀 About Me
 
-```ascii
+ascii
      __  __ _   _ _   _   _   ___    ___   ____    _    _     _ _____ ____  ___ 
     |  \/  | | | | | | | / \ |  _ \ |  _ \ |  _ \  / \  | |   | |___  |  _ \|_ _|
     | |\/| | | | | |_| |/ _ \| | | || |_) || |_) |/ _ \ | |   | |  / /| |_) || | 
     | |  | | |_| |  _  / ___ \ |_| ||  __/ |  _ </___ \| |___| | / / |  _ < | | 
     |_|  |_|\___/|_| |_/_/   \_\____/ |_|    |_| \_\_/   \_____|_|/___||_| \_\___|
-```> 🌌 *"Transforming complex logic into seamless, visually stunning digital experiences."*
+> 🌌 *"Transforming complex logic into seamless, visually stunning digital experiences."*
 
 Halo! Saya **Muhammad Alfarizi**, seorang **Full-Stack Developer & Creative Technologist** yang berfokus pada pembangunan aplikasi web/mobile modern, performa tinggi, serta antarmuka yang interaktif dengan estetika **Cyber/Neon Blue**.
 
