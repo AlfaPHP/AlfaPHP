@@ -21,8 +21,6 @@ const alfarizi = {
 
 <br>
 
-## 🛠️ Tech Stack
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/HTML5-0575E6?style=for-the-badge&logo=html5&logoColor=white" />
@@ -34,8 +32,6 @@ const alfarizi = {
 
 <br>
 
-## 📊 GitHub Stats
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AlfaPHP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1E90FF&icon_color=0575E6&text_color=c9d1d9" width="49%" />
@@ -46,8 +42,6 @@ const alfarizi = {
 </div>
 
 <br>
-
-## 🌐 Connect With Me
 
 <div align="center">
 
