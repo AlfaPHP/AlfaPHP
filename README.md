@@ -53,13 +53,13 @@ const alfarizi = {
 
 <div align="center">
 
-<a href="https://instagram.com/GANTI_USERNAME_INSTAGRAM" target="_blank">
+<a href="https://www.instagram.com/muhmmdalfriziii?igsh=ZnpmN2R5OGxvaXJ2" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-0575E6?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://wa.me/62GANTI_NOMOR_WA" target="_blank">
+<a href="https://wa.me/628974828694" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-021B79?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-<a href="https://GANTI_LINK_PORTOFOLIO.com" target="_blank">
+<a href="https://alfa.my.id" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
