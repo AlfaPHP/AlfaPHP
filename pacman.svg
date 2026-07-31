@@ -1,0 +1,27 @@
+<svg viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Garis lintasan -->
+  <line x1="20" y1="50" x2="780" y2="50" stroke="#1E90FF" stroke-width="1" stroke-dasharray="2,6" opacity="0.3"/>
+
+  <!-- Titik-titik yang akan "dimakan" -->
+  <g fill="#4FC3F7">
+    <circle cx="60" cy="50" r="6"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.075;0.076;0.999;1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="170" cy="50" r="6"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.212;0.213;0.999;1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="280" cy="50" r="6"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.35;0.351;0.999;1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="390" cy="50" r="6"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.487;0.488;0.999;1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="500" cy="50" r="6"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.625;0.626;0.999;1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="610" cy="50" r="6"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.762;0.763;0.999;1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="720" cy="50" r="6"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.9;0.901;0.999;1" dur="4s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Karakter pengejar -->
+  <g>
+    <circle cx="0" cy="0" r="22" fill="#0575E6"/>
+    <polygon points="0,0 30,-13 30,13" fill="#ffffff">
+      <animate attributeName="points"
+        values="0,0 30,-13 30,13; 0,0 30,-2 30,2; 0,0 30,-13 30,13"
+        dur="0.35s" repeatCount="indefinite"/>
+    </polygon>
+    <circle cx="-5" cy="-9" r="3" fill="#ffffff"/>
+    <animateMotion path="M 0,50 L 800,50" dur="4s" repeatCount="indefinite"/>
+  </g>
+</svg>
